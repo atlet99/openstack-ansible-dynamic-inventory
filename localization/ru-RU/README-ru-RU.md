@@ -137,7 +137,7 @@ openstack-ansible-dynamic-inventory
 | Языки                  |
 | -------------------------- |
 | [English](../../README.md)|
-| [Kazakh](localization/kz-KZ/README-kz-KZ.md) |
+| [Kazakh](../kz-KZ/README-kz-KZ.md) |
 
 ## Лицензия
 

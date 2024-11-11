@@ -137,7 +137,7 @@ openstack-ansible-dynamic-inventory
 |      Тілдер      |
 | -------------------------- |
 | [Ағылшын](../../README.md)|
-| [Орыс](localization/ru-RU/README-ru-RU.md) |
+| [Орыс](../ru-RU/README-ru-RU.md) |
 
 ## Лицензия
 
